@@ -23,8 +23,8 @@ use Symfony\Component\HttpFoundation\Request;
 
 class HomeController extends AbstractController {
 
-    private $clientId = "AV9jpLJynDAP6FBCzTI63koWT7y917gPdbgY7oc_2N_etyUlggq41d6W6Y_B0CAkLLwHgMdeb8aoYESr";
-    private $clientSecret = "EMbbiOUC9U1R-JonGVOZ1D84mN1UN3PHs2-rojzlc-r5uhNv_cdC_e7IEiMuW4xFXDzleuU7rM8YB4rt";
+    private $clientId = "xxxxxx";
+    private $clientSecret = "xxxxxx";
 
     /**
      * @Route("/", name="home")
